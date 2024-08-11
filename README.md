@@ -1,7 +1,7 @@
 ![Masterhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm ADARSH HULE</h1>
 <h3 align="center">A dedicated App Developer from India, committed to building impactful and user-friendly applications.</h3>
-<img align="right" alt="Coding" width="280" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*V4cV-UpcOn5sJ3hB75vdvA.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*V4cV-UpcOn5sJ3hB75vdvA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshhule&label=Profile%20views&color=0e75b6&style=flat" alt="adarshhule" /> </p>
 
