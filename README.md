@@ -225,15 +225,15 @@ Document intelligence system supporting PDF, DOCX, TXT and CSV with semantic ret
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-snake.svg"
   />
   <img
+    src="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-snake.svg"
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake.svg"
     width="90%"
   />
 </picture>
