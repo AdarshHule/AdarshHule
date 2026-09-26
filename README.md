@@ -1,18 +1,21 @@
 <div align="center">
 
-# Hi 👋, I'm Adarsh Hule
+<!-- Animated header -->
+<a href="https://github.com/adarshhule">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:2563EB&height=180&section=header&text=ADARSH%20HULE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Adarsh Hule"/>
+</a>
 
-### Software Engineer | AI/ML • Computer Vision • Backend • Cloud • Robotics
-
-Building practical software systems that connect **intelligent algorithms, reliable engineering, and real-world applications.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;AI%2FML+%7C+Computer+Vision+%7C+Backend;Python+%7C+C%2B%2B+%7C+CUDA+%7C+Linux;Cloud+%7C+RAG+%7C+Robotics+%7C+Software+Testing" alt="Typing SVG"/>
+</a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/adarsh-hule-a02ab1253/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/adarshhule">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -21,126 +24,159 @@ Building practical software systems that connect **intelligent algorithms, relia
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering graduate** with hands-on experience across **software development, AI/ML, computer vision, backend systems, cloud, robotics, and software testing**.
+I'm a **Computer Engineering graduate** and Software Engineer with hands-on experience across **software development, AI/ML, computer vision, backend systems, cloud, robotics, and software testing**.
 
-I enjoy solving engineering problems that sit at the intersection of software and intelligent systems. My work ranges from building Python/FastAPI APIs and computer-vision pipelines to developing autonomous robotic systems and RAG-based applications.
+I like building systems where software meets real-world problems — from **FastAPI and computer-vision pipelines** to **RAG applications and autonomous robotic systems**.
 
-- 🎓 **B.E. Computer Engineering** — P.E.S. Modern College of Engineering, Pune
+- 🎓 B.E. Computer Engineering — P.E.S. Modern College of Engineering, Pune
 - 🏆 **E-Yantra IIT Bombay Robotics Competition — AIR 5**
 - 🥇 **1st Position — ACM & Computer Department Mini Project Competition**
-- 🤖 Experience with **ROS 2, Nav2, MoveIt 2, Gazebo & RViz2**
-- 🧠 AI/ML experience with **OpenCV, YOLOv11, TensorFlow, RAG & NLP**
-- ⚙️ Software development with **Python, C/C++, FastAPI & REST APIs**
-- 🚀 Interested in building reliable software across **AI, backend, cloud, systems, automation, and intelligent applications**
+- 🤖 ROS 2 • Nav2 • MoveIt 2 • Gazebo • RViz2
+- 🧠 AI/ML • Computer Vision • RAG • LangChain • FAISS
+- ⚙️ Python • C/C++ • FastAPI • REST APIs • CUDA • Linux
+- ☁️ AWS • Docker • Kubernetes • CI/CD
+- 🔍 Software Testing • Debugging • API Testing • Regression Testing
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-<p>
+### Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,js,swift,sql" />
-</p>
 
-### AI / Machine Learning / Computer Vision
+### AI / ML / Computer Vision
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
-**Machine Learning • Deep Learning • Computer Vision • NLP • OpenCV • Dlib • YOLOv11 • TensorFlow • Scikit-learn • Hugging Face**
+<br/>
+
+**OpenCV • Dlib • YOLOv11 • Scikit-learn • Deep Learning • NLP • Hugging Face**
 
 ### Generative AI / RAG
 
-**RAG • LangChain • LangGraph • FAISS • Sentence Transformers • Vector Databases • Semantic Search**
+**LangChain • LangGraph • RAG • FAISS • Sentence Transformers • Vector Databases • Semantic Search**
 
-### Backend / APIs / Databases
+### Backend / Cloud / DevOps
+<img src="https://skillicons.dev/icons?i=fastapi,aws,docker,kubernetes,linux,git,github" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,mysql,redis" />
-</p>
+### Robotics / Autonomous Systems
 
-**FastAPI • REST APIs • Microservices • MySQL • Redis • Firebase**
+**ROS 2 • Nav2 • MoveIt 2 • Gazebo • RViz2 • NVIDIA Isaac Sim • SLAM • TF2 • Robotic Manipulation**
 
-### Cloud / Systems / DevOps
+### Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github" />
-</p>
+**Swift • iOS • Mobile Application Development**
 
-**AWS • Linux/Unix • CUDA • Docker • Kubernetes • Git • GitHub • CI/CD**
+### Engineering / Testing
 
-### Robotics & Autonomous Systems
+**REST APIs • Microservices • Unit Testing • API Testing • Test Case Design • Regression Testing • Debugging • CI/CD**
 
-**ROS 2 • Navigation2 (Nav2) • MoveIt 2 • Gazebo • RViz2 • NVIDIA Isaac Sim • SLAM • TF2 • Robotic Manipulation • Autonomous Navigation**
-
-### Mobile Development
-
-**Swift • iOS Development • Mobile Application Development**
-
-### Software Engineering & Testing
-
-**SDLC • Unit Testing • API Testing • Test Case Design • Regression Testing • Defect Reporting • Code Reviews • Debugging**
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Logistic coBot — E-Yantra Robotics Competition
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**ROS 2 • Nav2 • MoveIt 2 • Gazebo • RViz2 • C++ • Python**
+### 🤖 Logistic coBot
 
-- Implemented **EKF-based SLAM and Nav2 navigation** for autonomous mobile robot docking in a multi-robot warehouse environment.
-- Built a **MoveIt 2 pick-and-place pipeline** for a UR5-style robotic arm.
-- Integrated depth-camera perception, **ArUco marker detection**, and TF frame transformations.
-- Achieved an average pick-and-place cycle time of **under 3 minutes per box** in Gazebo simulation.
-- Designed and modeled the robotic arm in **SOLIDWORKS**.
+**E-Yantra • ROS 2 • Nav2 • MoveIt 2**
+
+Autonomous warehouse robotics system featuring EKF-SLAM, Nav2 navigation, depth-camera perception, ArUco detection and UR5 pick-and-place.
+
+**AIR 5 — E-Yantra IIT Bombay**
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 👁️ Pupillary Distance Calculator
 
-**Python • OpenCV • Dlib • YOLOv11 • Swift • FastAPI**
+**Python • OpenCV • YOLOv11 • FastAPI • Swift**
 
-- Developed an iOS application for automated pupillary-distance measurement using facial image analysis.
-- Built a Python/FastAPI computer-vision backend for facial landmark detection and measurement extraction.
-- Achieved **97% measurement accuracy** with results generated in **under 3 seconds**.
+Computer-vision application for automated PD measurement with a Python/FastAPI backend.
 
-### 🧠 RAG-Powered Document Intelligence Assistant
+**97% accuracy • <3 sec**
 
-**Python • LangChain • FAISS • Sentence Transformers • Streamlit**
+</td>
 
-- Built a document Q&A system supporting **PDF, DOCX, TXT and CSV** files.
-- Implemented semantic search with **FAISS** and Sentence Transformer embeddings.
-- Implemented multiple chunking strategies including semantic, sentence, paragraph, and fixed-size chunking.
-- Designed source-attributed answers for more traceable document-based responses.
+<td width="33%" valign="top">
+
+### 🧠 RAG Document Assistant
+
+**Python • LangChain • FAISS**
+
+Document intelligence system supporting PDF, DOCX, TXT and CSV with semantic retrieval and source-attributed answers.
+
+**4 chunking strategies**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
 ### Python Developer • iOS Developer • ML Developer
-
-**I2I Techno Solutions — Pune**  
-*December 2024 – March 2025*
+**I2I Techno Solutions — Pune** | *Dec 2024 – Mar 2025*
 
 - Developed AI-powered iOS applications using **Swift, Python, OpenCV and Dlib**.
-- Built backend APIs using **FastAPI** for real-time image processing and measurement extraction.
-- Improved facial landmark detection pipelines achieving **97% measurement accuracy**.
+- Built **FastAPI** backend APIs for real-time image processing.
+- Improved facial landmark detection pipelines to **97% measurement accuracy**.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **AIR 5** — E-Yantra IIT Bombay Robotics Competition
-- 🥇 **1st Position** — Mini Project Competition organized by ACM and Computer Department
-- 🤖 **Finalist — Logistic coBot theme**, advanced to the hardware stage of E-Yantra
-- 👨‍💻 **CS/IT Lead — MARS Robotics Club**
+<div align="center">
+
+| 🏆 Achievement | Details |
+|---|---|
+| 🥇 **E-Yantra** | AIR 5 — IIT Bombay Robotics Competition |
+| 🥇 **ACM Competition** | 1st Position — Mini Project Competition |
+| 🤖 **E-Yantra Finalist** | Advanced to hardware stage — Logistic coBot |
+| 👨‍💻 **MARS Robotics Club** | CS/IT Lead |
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
+
+> **Note:** The old `github-readme-stats.vercel.app` service can be unreliable because its public Vercel deployment is subject to rate limits and service outages. The project itself recommends self-hosting or using generated cards for more reliable profiles. citeturn0search5turn0search8
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshhule&show_icons=true&hide_border=true&count_private=true" alt="Adarsh's GitHub stats"/>
+<!-- Profile summary cards: more reliable alternative to the old stats cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshhule&theme=github_dark" width="98%" alt="GitHub profile details"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshhule&layout=compact&hide_border=true" alt="Top languages"/>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshhule&theme=github_dark" width="48%" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshhule&theme=github_dark" width="48%" alt="Repository languages"/>
+
+</div>
+
+The summary-card project supports profile, stats, language, and productive-time cards and also supports GitHub Actions for generating cards in your own repository. citeturn1search5turn1search7
+
+---
+
+## 🐍 Contribution Activity
+
+Once the included GitHub Action is enabled, this section will display an animated contribution snake.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -154,13 +190,16 @@ I enjoy learning new technologies, understanding systems deeply, and turning ide
 
 ---
 
-## 🤝 Let's Connect
-
-If you're working on interesting problems in **software, AI, automation, or intelligent systems**, I'd be happy to connect.
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adarsh-hule-a02ab1253/">LinkedIn</a> •
-<a href="https://github.com/adarshhule">GitHub</a>
+### 💬 Let's build something meaningful.
+
+<a href="https://www.linkedin.com/in/adarsh-hule-a02ab1253/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0EA5E9,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
