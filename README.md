@@ -1,43 +1,166 @@
-![Masterhead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm ADARSH HULE</h1>
-<h3 align="center">A dedicated App Developer from India, committed to building impactful and user-friendly applications.</h3>
-<img align="right" alt="Coding" width="280" src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshhule&label=Profile%20views&color=0e75b6&style=flat" alt="adarshhule" /> </p>
+# Hi 👋, I'm Adarsh Hule
 
-<p align="left"> <a href="https://twitter.com/adarsh_hule" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh_hule?logo=twitter&style=for-the-badge" alt="adarsh_hule" /></a> </p>
+### Software Engineer | AI/ML • Computer Vision • Backend • Cloud • Robotics
 
-- 🔭 I’m currently working on **DSA Algorithm Visualization APP**
+Building practical software systems that connect **intelligent algorithms, reliable engineering, and real-world applications.**
 
-- 🌱 I’m currently learning **IOS Development**
+<br/>
 
-- 💬 Ask me about **Flutter, Ios Dev, Android, Linux**
+<a href="https://www.linkedin.com/in/adarsh-hule-a02ab1253/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/adarshhule">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-- 📫 How to reach me **huleadarsh1524@icloud.com**
+</div>
 
-- ⚡ Fun fact **Experienced in computer assembling and repairing, with a strong grasp of hardware components, hands-on troubleshooting skills, knowledge of various operating systems, and a focus on optimizing system performance.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adarsh_hule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh_hule" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-hule-a02ab1253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-hule-a02ab1253" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering graduate** with hands-on experience across **software development, AI/ML, computer vision, backend systems, cloud, robotics, and software testing**.
+
+I enjoy solving engineering problems that sit at the intersection of software and intelligent systems. My work ranges from building Python/FastAPI APIs and computer-vision pipelines to developing autonomous robotic systems and RAG-based applications.
+
+- 🎓 **B.E. Computer Engineering** — P.E.S. Modern College of Engineering, Pune
+- 🏆 **E-Yantra IIT Bombay Robotics Competition — AIR 5**
+- 🥇 **1st Position — ACM & Computer Department Mini Project Competition**
+- 🤖 Experience with **ROS 2, Nav2, MoveIt 2, Gazebo & RViz2**
+- 🧠 AI/ML experience with **OpenCV, YOLOv11, TensorFlow, RAG & NLP**
+- ⚙️ Software development with **Python, C/C++, FastAPI & REST APIs**
+- 🚀 Interested in building reliable software across **AI, backend, cloud, systems, automation, and intelligent applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,js,swift,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### AI / Machine Learning / Computer Vision
 
-<img align="centre" alt="Coding" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WVUBQsNgePqQxmrHjaID4g.png">
+**Machine Learning • Deep Learning • Computer Vision • NLP • OpenCV • Dlib • YOLOv11 • TensorFlow • Scikit-learn • Hugging Face**
 
+### Generative AI / RAG
 
+**RAG • LangChain • LangGraph • FAISS • Sentence Transformers • Vector Databases • Semantic Search**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshhule&show_icons=true&locale=en&layout=compact" alt="adarshhule" /></p>
+### Backend / APIs / Databases
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshhule&show_icons=true&locale=en" alt="adarshhule" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,mysql,redis" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshhule&" alt="adarshhule" /></p>
+**FastAPI • REST APIs • Microservices • MySQL • Redis • Firebase**
 
-<img align="centre" alt="Coding" width="1280" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
+### Cloud / Systems / DevOps
 
-<img align="centre" alt="Coding" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/banner-header.gif">
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github" />
+</p>
 
-<img align="centre" alt="Coding" width="1280" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**AWS • Linux/Unix • CUDA • Docker • Kubernetes • Git • GitHub • CI/CD**
+
+### Robotics & Autonomous Systems
+
+**ROS 2 • Navigation2 (Nav2) • MoveIt 2 • Gazebo • RViz2 • NVIDIA Isaac Sim • SLAM • TF2 • Robotic Manipulation • Autonomous Navigation**
+
+### Mobile Development
+
+**Swift • iOS Development • Mobile Application Development**
+
+### Software Engineering & Testing
+
+**SDLC • Unit Testing • API Testing • Test Case Design • Regression Testing • Defect Reporting • Code Reviews • Debugging**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Logistic coBot — E-Yantra Robotics Competition
+
+**ROS 2 • Nav2 • MoveIt 2 • Gazebo • RViz2 • C++ • Python**
+
+- Implemented **EKF-based SLAM and Nav2 navigation** for autonomous mobile robot docking in a multi-robot warehouse environment.
+- Built a **MoveIt 2 pick-and-place pipeline** for a UR5-style robotic arm.
+- Integrated depth-camera perception, **ArUco marker detection**, and TF frame transformations.
+- Achieved an average pick-and-place cycle time of **under 3 minutes per box** in Gazebo simulation.
+- Designed and modeled the robotic arm in **SOLIDWORKS**.
+
+### 👁️ Pupillary Distance Calculator
+
+**Python • OpenCV • Dlib • YOLOv11 • Swift • FastAPI**
+
+- Developed an iOS application for automated pupillary-distance measurement using facial image analysis.
+- Built a Python/FastAPI computer-vision backend for facial landmark detection and measurement extraction.
+- Achieved **97% measurement accuracy** with results generated in **under 3 seconds**.
+
+### 🧠 RAG-Powered Document Intelligence Assistant
+
+**Python • LangChain • FAISS • Sentence Transformers • Streamlit**
+
+- Built a document Q&A system supporting **PDF, DOCX, TXT and CSV** files.
+- Implemented semantic search with **FAISS** and Sentence Transformer embeddings.
+- Implemented multiple chunking strategies including semantic, sentence, paragraph, and fixed-size chunking.
+- Designed source-attributed answers for more traceable document-based responses.
+
+---
+
+## 💼 Experience
+
+### Python Developer • iOS Developer • ML Developer
+
+**I2I Techno Solutions — Pune**  
+*December 2024 – March 2025*
+
+- Developed AI-powered iOS applications using **Swift, Python, OpenCV and Dlib**.
+- Built backend APIs using **FastAPI** for real-time image processing and measurement extraction.
+- Improved facial landmark detection pipelines achieving **97% measurement accuracy**.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **AIR 5** — E-Yantra IIT Bombay Robotics Competition
+- 🥇 **1st Position** — Mini Project Competition organized by ACM and Computer Department
+- 🤖 **Finalist — Logistic coBot theme**, advanced to the hardware stage of E-Yantra
+- 👨‍💻 **CS/IT Lead — MARS Robotics Club**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshhule&show_icons=true&hide_border=true&count_private=true" alt="Adarsh's GitHub stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshhule&layout=compact&hide_border=true" alt="Top languages"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Interested In
+
+**Software Engineering • AI/ML • Computer Vision • Backend Systems • Cloud • Software Testing • Autonomous Systems • Robotics Software • Developer Tools**
+
+I enjoy learning new technologies, understanding systems deeply, and turning ideas into software that works reliably in the real world.
+
+---
+
+## 🤝 Let's Connect
+
+If you're working on interesting problems in **software, AI, automation, or intelligent systems**, I'd be happy to connect.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adarsh-hule-a02ab1253/">LinkedIn</a> •
+<a href="https://github.com/adarshhule">GitHub</a>
+
+</div>
