@@ -62,7 +62,29 @@ I like building systems where software meets real-world problems — from **Fast
 
 ### Robotics / Autonomous Systems
 
-**ROS 2 • Nav2 • MoveIt 2 • Gazebo • RViz2 • NVIDIA Isaac Sim • SLAM • TF2 • Robotic Manipulation**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ros,arduino" alt="Robotics tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
+<img src="https://img.shields.io/badge/MoveIt%202-5C2D91?style=for-the-badge&logo=robotframework&logoColor=white" alt="MoveIt 2"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Nav2-1F6FEB?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2"/>
+<img src="https://img.shields.io/badge/RViz2-374151?style=for-the-badge&logo=ros&logoColor=white" alt="RViz2"/>
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Sim"/>
+<img src="https://img.shields.io/badge/SLAM-0EA5E9?style=for-the-badge&logo=mapbox&logoColor=white" alt="SLAM"/>
+
+<br/><br/>
+
+**ROS 2 • Nav2 • MoveIt 2 • Gazebo • RViz2 • NVIDIA Isaac Sim • SLAM • TF2 • Robotic Manipulation • Autonomous Navigation**
+
+</div>
 
 ### Mobile
 
@@ -75,6 +97,18 @@ I like building systems where software meets real-world problems — from **Fast
 </div>
 
 ---
+
+## 🤖 Robotics & Intelligent Systems
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adarshhule/adarshhule/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution activity" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:2563EB&height=80&text=ROBOTICS%20%E2%80%A2%20AI%20%E2%80%A2%20AUTONOMOUS%20SYSTEMS&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="85%" alt="Robotics AI Autonomous Systems"/>
+
+</div>
 
 ## 🚀 Featured Projects
 
